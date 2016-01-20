@@ -1,0 +1,18 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/MediaArea/zlib.git
+[submodule "libxml2"]
+	path = libxml2
+	url = https://github.com/MediaArea/libxml2.git
+[submodule "libxslt"]
+	path = libxslt
+	url = https://github.com/MediaArea/libxslt.git
+[submodule "ZenLib"]
+	path = ZenLib
+	url = https://github.com/MediaArea/ZenLib.git
+[submodule "MediaInfoLib"]
+	path = MediaInfoLib
+	url = https://github.com/MediaArea/MediaInfoLib.git
+[submodule "MediaConch"]
+	path = MediaConch
+	url = https://github.com/MediaArea/MediaConch_SourceCode.git
