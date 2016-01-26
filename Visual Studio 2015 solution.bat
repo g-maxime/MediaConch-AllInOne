@@ -1,0 +1,1 @@
+cd "%CD%\MediaConch\Project\MSVC2015" && %windir%\explorer.exe "%CD%\MediaConch\Project\MSVC2015\MediaConch.sln"
