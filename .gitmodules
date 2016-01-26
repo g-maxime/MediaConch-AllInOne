@@ -16,3 +16,9 @@
 [submodule "MediaConch"]
 	path = MediaConch
 	url = https://github.com/MediaArea/MediaConch_SourceCode.git
+[submodule "jansson"]
+	path = jansson
+	url = https://github.com/MediaArea/jansson.git
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/MediaArea/libevent.git
