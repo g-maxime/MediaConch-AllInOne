@@ -15,7 +15,7 @@
 	url = https://github.com/MediaArea/MediaInfoLib.git
 [submodule "MediaConch"]
 	path = MediaConch
-	url = https://github.com/MediaArea/MediaConch_SourceCode.git
+	url = https://github.com/g-maxime/MediaConch_SourceCode.git
 	branch = mi-output
 [submodule "jansson"]
 	path = jansson
